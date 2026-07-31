@@ -96,7 +96,3 @@ A separate target network is updated gradually to improve training stability and
 The training process supports GPU acceleration using CUDA, allowing neural network training to be significantly faster compared to CPU-only execution.
 
 ---
-
-## Project Structure
-
-Example structure:
